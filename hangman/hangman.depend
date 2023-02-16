@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1676479265 source:d:\hangman\hangman_functions.cpp
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+	"hangman_functions.h"
+
+1676478537 d:\hangman\hangman_functions.h
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+
+1676479653 source:d:\hangman\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+	"hangman_functions.h"
+
