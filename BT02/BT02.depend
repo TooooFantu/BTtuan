@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1676639595 source:d:\bt02\bt02_functions.cpp
+	<iostream>
+	"BT02_functions.h"
+
+1676637944 d:\bt02\bt02_functions.h
+	<iostream>
+
+1676641250 source:d:\bt02\main.cpp
+	<iostream>
+	"BT02_functions.h"
+
