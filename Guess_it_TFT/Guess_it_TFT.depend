@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1676532205 source:d:\guess_it_tft\guess_it_functions.cpp
+	<iostream>
+	<ctime>
+	"guess_it_functions.h"
+
+1676530905 d:\guess_it_tft\guess_it_functions.h
+	<iostream>
+	<ctime>
+
+1676712175 source:d:\guess_it_tft\main.cpp
+	<iostream>
+	<ctime>
+	"guess_it_functions.h"
+
