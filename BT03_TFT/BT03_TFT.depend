@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1676738170 source:d:\bt03_tft\bt03_functions.cpp
+	<iostream>
+	<iomanip>
+	"BT03_functions.h"
+
+1676737876 d:\bt03_tft\bt03_functions.h
+	<iostream>
+	<iomanip>
+
+1676738463 source:d:\bt03_tft\main.cpp
+	<iostream>
+	<iomanip>
+	"BT03_functions.h"
+
